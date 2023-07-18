@@ -87,7 +87,7 @@
           <h2>Secure, Contain, Protect</h2>
         </div>
         <div class='logo-img'>
-          <img src='images/scp-logo.png' alt='SCP Logo' />
+          <img src='scp-logo.png' alt='SCP Logo' />
         </div>
         <div class='button-container'>
           <a href='form.php' class='custom-button'>Add SCP Subject</a>
